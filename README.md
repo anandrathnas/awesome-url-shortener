@@ -243,6 +243,7 @@ Whether you're a marketer tracking campaigns, a developer building integrations,
 | [oe.cd](https://oe.cd) | OECD only | Restricted to OECD-related URLs |
 | [LinkHuddle](https://linkhuddle.com) | Link aggregation | Combine multiple links into one |
 | [LinkSplit](https://linksplit.io) | A/B testing | Split traffic between destinations |
+| [Klinky](https://klinky.io) | A/B testing | Split one link between two destinations with weighted routing and real-time click analytics |
 | [reduced.to](https://reduced.to) | Open-source | Self-hostable with analytics |
 | [spoo.me](https://spoo.me) | Simple | "Shorten URLs, not possibilities" |
 
